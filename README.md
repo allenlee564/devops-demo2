@@ -26,6 +26,7 @@ pytest -v                # 或 pytest --cov=app
 ```
 
 > PR 截圖教材示範：這一行是用來展示 branch → PR → merge 流程的最小變更。
+> 第二次示範：這一行是用來拍 Merge 與 Delete branch 畫面的。
 
 ## 用 Docker 跑
 
